@@ -1,22 +1,40 @@
 {
-    "notes": [
-        {
-            "title": "Yoshi's birthday bash",
-            "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-            "category": "reminders",
-            "id": 1
-        },
-        {
-            "title": "Complete my ninja training",
-            "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
-            "category": "work",
-            "id": 2
-        },
-        {
-            "title": "Order a pizza!",
-            "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-            "category": "todos",
-            "id": 3
-        }
-    ]
+  "notes": [
+    {
+      "title": "Learning Next.js",
+      "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatibus aliquid voluptas ipsam autem optio debitis quae quod, tenetur porro asperiores quia, voluptatem totam doloribus, tempore inventore facere consequuntur corrupti eveniet illum nisi doloremque repellendus eos?",
+      "category": "todos",
+      "id": 1
+    },
+    {
+      "title": "Complete AOT",
+      "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatibus aliquid voluptas ipsam autem optio debitis quae quod, tenetur porro asperiores quia, voluptatem totam doloribus, tempore inventore facere consequuntur corrupti eveniet illum nisi doloremque repellendus eos? Numquam, odit, laborum eligendi, debitis ea atque similique temporibus quam ipsam quaerat repellendus officia reiciendis?",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "title": "Order my fav Pizza!",
+      "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatibus aliquid voluptas ipsam autem optio debitis quae quod, tenetur porro asperiores quia, voluptatem totam doloribus.",
+      "category": "reminders",
+      "id": 3
+    },
+    {
+      "title": "Rent Naruto Vol. 1",
+      "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatibus aliquid voluptas ipsam autem optio debitis quae quod, tenetur porro asperiores quia, voluptatem totam doloribus, tempore inventore facere consequuntur corrupti eveniet illum nisi doloremque.",
+      "category": "money",
+      "id": 5
+    },
+    {
+      "title": "Learning Gatsby.js",
+      "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatibus aliquid voluptas ipsam autem optio debitis quae quod, tenetur porro asperiores quia, voluptatem totam doloribus, tempore.",
+      "category": "todos",
+      "id": 6
+    },
+    {
+      "title": "Cupcake's Bday!!!",
+      "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatibus aliquid voluptas ipsam autem optio debitis quae quod, tenetur porro asperiores quia, voluptatem totam doloribus, tempore inventore facere consequuntur corrupti eveniet illum nisi doloremque repellendus eos? Numquam, odit, laborum eligendi, debitis ea atque.",
+      "category": "reminders",
+      "id": 7
+    }
+  ]
 }
